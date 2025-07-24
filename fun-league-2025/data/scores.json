@@ -1,0 +1,21 @@
+{
+  "last_updated": "July 24, 2025",
+  "teams": [
+    {
+      "name": "Team Luffy (One Piece)",
+      "points": 52
+    },
+    {
+      "name": "Team Naruto (Naruto)",
+      "points": 47
+    },
+    {
+      "name": "Team Goku (Dragon Ball)",
+      "points": 39
+    },
+    {
+      "name": "Team Deku (My Hero Academia)",
+      "points": 33
+    }
+  ]
+}
